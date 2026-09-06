@@ -704,6 +704,5 @@ If Agent-X helps you understand Agentic AI, consider giving the repository a ⭐
 
 ## 📜 License
 
-This project is intended for educational and portfolio purposes.
-
-Add an appropriate open-source license before distributing the project publicly.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
