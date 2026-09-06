@@ -31,7 +31,7 @@ st.set_page_config(
     page_icon="🤖"
 )
 
-st.title("Agentic Chatbot with LangGraph")
+st.title("Agent X")
 
 
 # ============================================================
